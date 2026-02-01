@@ -15,7 +15,7 @@ The names generally follow a pattern, with the first character or two dictating 
 | `A`    | Transport information and points of interest |
 | `D`    | Destinations                                 |
 | `R`    | Routes                                       |
-| `S`    | Stops                                        |
+| `S`    | 'Victoria Coach Station'                                       |
 
 Various additional files also exist with non-conforming names, some have "v2" copies, some are duplicates, and there are also two Excel spreadsheets with transcripts of a few hundred files thrown in for good measure.
 
